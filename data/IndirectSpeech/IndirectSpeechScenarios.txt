@@ -1,0 +1,4 @@
+ISV	1	Paul has to go to an interview and he's running late. While he's cleaning his shoes he says to his wife, Jane, "I want to wear that blue shirt, but it's very creased". What might he be trying to convey?
+ISV	7	Kate brought some cookies to school. Matt has a sweet tooth. He says, "Your cookies smell delicious. They must be really tasty." What might he be trying to convey?
+ISV	10	Chad and Matt were walking. The sidewalk was being fixed and there was lots of shattered glass on the sidewalk. Matt was not paying attention to the sidewalk. Chad said, "I guess you like walking on shattered glass." What might he be trying to convey?
+ISV	20	Sam is sunning himself on the porch. Peter comes out of the house and forgets to close the screen door. Sam says, "Peter, there are many flies and mosquitoes outside." What might he be trying to convey?
