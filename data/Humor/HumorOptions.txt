@@ -1,0 +1,27 @@
+HV	4	1	"Martha said, ""Four pieces, please; I'm on a diet."""  Correct
+HV	4	2	"Martha said: ""Well, there are five people for dessert tonight, so eight pieces will be about right."""    Incorrect
+HV	4	3	"Martha said, ""You make the most delicious sweet rolls in town.""" Incorrect
+HV	4	4	"Martha said, ""My leg is hurting so much."""   Incorrect
+HV	4	5	Then the attendant squirted whipped cream in Martha's face. Incorrect
+
+HV	12	1	"""That depends on how fast you carry the flashlight."""    Correct
+HV	12	2	"""That depends on how aggressive the alligator is."""  Incorrect
+HV	12	3	"""Are you afraid of alligators?""" Incorrect
+HV	12	4	"""What do your parents do for a living.""" Incorrect
+HV	12	5	"""I stepped in a puddle of water!"""   Incorrect
+
+HV	16	1	shrugged their shoulders and exchanged sandwiches.  Correct
+HV	16	2	"said, ""We are sorry; we didn't know your rules."""    Incorrect
+HV	16	3	"said, ""We like sandwiches with a lot of mayonnaise."""    Incorrect
+HV	16	4	asked the owner where the restroom was. Incorrect
+HV	16	5	threw their drinks in the owner's face. Incorrect
+
+HV	24	1	"""It's not just one car. It's hundreds of them!""" Correct
+HV	24	2	"""How can anybody do something like that!"""   Incorrect
+HV	24	3	"""I'm running out of gas."""   Incorrect
+HV	24	4	"""I'm getting hungry."""   Incorrect
+HV	24	5	"""Who left this raw egg on my seat!""" Incorrect
+
+
+
+

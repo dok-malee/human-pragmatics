@@ -1,0 +1,20 @@
+MV  8	1	Mary wants Ken to serve her tea in a cup.   Incorrect
+MV  8	2	Mary is irritated with Ken. Correct
+MV  8	3	Mary is proud of the new cups that she got from Ken for her birthday.   Incorrect
+MV  8	4	Mary wants Ken to wash a cup that she sees in the sink. Incorrect
+
+MV  10	1	He has been doing lots of schoolwork at school. Incorrect
+MV  10	2	He does not want to talk about school with his mom. Correct
+MV  10	3	He is too excited to talk about this at the moment. Incorrect
+MV  10	4	He is upset that his dad is not at home.    Incorrect
+
+MV  19	1	Bianka is an alien. Incorrect
+MV  19	2	Bianka does not want Lenny to know her address. Correct
+MV  19	3	Bianka is not very well educated.   Incorrect
+MV  19	4	Bianka tries to make Lenny angry with her.  Incorrect
+
+MV  20	1	Kelly has made a list of books to read that contains one million titles.    Incorrect
+MV  20	2	Kelly plans to devote a lot of time to reading this summer. Correct
+MV  20	3	Kelly is a pathological liar.   Incorrect
+MV  20	4	Kelly cannot count very well.   Incorrect
+

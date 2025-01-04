@@ -1,0 +1,4 @@
+CIV	1	Mary's exam was about to start. Her palms were sweaty.
+CIV	20	Cleo brushed against a table with a vase on it. The water spilled onto the expensive carpet.
+CIV	22	The lights have been on since last night. He turned on the TV for a weather report.
+CIV	29	Vicky was planning her first trip to Europe. A mirror fell down and shattered on the floor.

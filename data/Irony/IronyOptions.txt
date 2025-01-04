@@ -1,0 +1,19 @@
+IV	6	1	He enjoys listening to his kids fighting.   Incorrect
+IV	6	2	He does not want to listen to his kids' arguments.  Correct
+IV	6	3	AC gives them some needed cool. Incorrect
+IV	6	4	He remembers about his wife's birthday. Incorrect
+
+IV	13	1	He is happy with his work.  Incorrect
+IV	13	2	He is unhappy with his work.    Correct
+IV	13	3	He needs to polish his style.   Incorrect
+IV	13	4	He needs to buy a new car.  Incorrect
+
+IV	24	1	Tilly is ready for the exam.    Incorrect
+IV	24	2	Tilly is unready for the exam.  Correct
+IV	24	3	Tilly cannot find the textbook. Incorrect
+IV	24	4	Tilly cannot find the sneakers. Incorrect
+
+IV	25	1	He liked her choice of dress.   Incorrect
+IV	25	2	He thought that her dress was not appropriate for the occasion. Correct
+IV	25	3	He thought that Barb forgot her purse in the hall.  Incorrect
+IV	25	4	He thought that Barb forgot to call the cab.    Incorrect

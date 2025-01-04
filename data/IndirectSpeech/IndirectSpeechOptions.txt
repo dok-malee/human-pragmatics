@@ -1,0 +1,19 @@
+ISV	1	1	He is unhappy that his shirt is wrinkled.   Incorrect
+ISV	1	2	He wants his wife to iron his shirt.    Correct
+ISV	1	3	He got this shirt on sale.  Incorrect
+ISV	1	4	He got his shoes on sale.   Incorrect
+
+ISV	7	1	She is a great baker who makes good cookies.    Incorrect
+ISV	7	2	He wants Kate to give him some cookies. Correct
+ISV	7	3	He wants to learn how to make these cookies.    Incorrect
+ISV	7	4	He wants to learn how to make a roast beef. Incorrect
+
+ISV	10	1	Walking on shattered glass is something that Matt enjoys.   Incorrect
+ISV	10	2	Matt should look around where he is walking.    Correct
+ISV	10	3	Matt should buy new shoes.  Incorrect
+ISV	10	4	Matt should get a new pet.  Incorrect
+
+ISV	20	1	He wants Peter to know that he might get bitten.    Incorrect
+ISV	20	2	He wants Peter to close the screen door.    Correct
+ISV	20	3	He wants Peter to bring him some sunscreen. Incorrect
+ISV	20	4	He wants Peter to bring him some flowers.   Incorrect

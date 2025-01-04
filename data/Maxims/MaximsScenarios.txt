@@ -1,0 +1,4 @@
+MV  8	"Mary and Ken are having breakfast. Ken asks Mary: ""How would you like your tea, dear?"" Mary responds, ""In a cup."" Why has Mary responded like this?
+MV  10	"Mike comes home from school. His mom asks him: ""What did you do at school today?"" Mike responds: ""some schoolwork."" Why has Mike responded like this?
+MV  19	"Lenny is saying goodbye to his date Bianka. Lenny asks Bianka: ""Where do you live?"" Bianka responds: ""I live on the moon."" Why has Bianka responded like this?
+MV  20	"Annie and Kelly are discussing their plans for summer. Annie asks Kelly: ""How many books do you plan to read this summer?"" Kelly responds: ""A million."" Why has Kelly responded like this?

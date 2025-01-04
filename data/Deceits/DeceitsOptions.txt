@@ -1,0 +1,20 @@
+DV	2	1	He likes the gift very much.    Incorrect
+DV	2	2	He wants Monica to understand that he dislikes her gift.    Incorrect
+DV	2	3	He does not want to hurt Monica by saying that he dislikes the gift.    Correct
+DV	2	4	He does not like to celebrate his birthday and wants it to be over with.    Incorrect
+
+DV	11	1	He thinks that a new haircut suits his wife.    Incorrect
+DV	11	2	He wants to stress out that this haircut does not compliment Katie. Incorrect
+DV	11	3	He sees how excited Katie is about the haircut and does not want to ruin her good mood. Correct
+DV	11	4	John does not care about Katie or her haircut.  Incorrect
+
+DV	15	1	She is excited to eat the donuts because she is craving them.   Incorrect
+DV	15	2	She wanted Bob to understand that she did not want any more donuts. Incorrect
+DV	15	3	She did not want to disappoint Bob by telling him the truth.    Correct
+DV	15	4	She did not want to show Bob that she was angry by telling him the truth.   Incorrect
+
+DV	18	1	Wisdom tooth removal was not that painful for Betty after all.  Incorrect
+DV	18	2	Wisdom tooth removal was extremely painful for Betty.   Incorrect
+DV	18	3	Betty does not want to put additional stress on her partner by telling him the truth.   Correct
+DV	18	4	Betty values her relationship with her partner and does not want to get into an argument with him.  Incorrect
+
